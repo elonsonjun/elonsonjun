@@ -1,8 +1,26 @@
-## Hi there 👋 I'm Sonjun Murthy
+<h1 align="center">Hi there, I'm Sonjun Murthy 👋</h1>
 
+<p align="center">
+  A passionate <b>Full Stack Developer</b> and an enthusiastic explorer of <b>AI & Machine Learning</b><br>
+  Love turning ideas into real-world applications using code, curiosity & coffee!
+</p>
 
-- 🔭 I’m currently working on **Deepfake Detection System using Iris Patterns** 
-- 🌱 I’m currently learning **TensorFlow, Deep Learning, Computer Vision**
-- 🤔 I’m looking for help with **Deep Learning Related Projects**
-- 💬 Ask me about **Full Stack Web Development, Machine Learing, Deep Learning**
+---
 
+### 🚀 Projects in Progress
+- 🔍 Currently working on a *Deepfake Detection System* using *Iris Patterns*
+- ⚙ Actively learning: TensorFlow • Deep Learning • Computer Vision
+- 🤝 Open to collaborations on *Deep Learning Research Projects*
+
+---
+
+### 🛠 Tech Stack
+```json
+{
+  "Languages": ["JavaScript", "Python", "TypeScript", "HTML", "CSS"],
+  "Frontend": ["React", "Tailwind", "Bootstrap"],
+  "Backend": ["Node.js", "Express.js"],
+  "Database": ["MongoDB", "MySQL"],
+  "AI/ML": ["TensorFlow", "Keras", "OpenCV"],
+  "Tools": ["VS Code", "Git", "Postman", "Figma"]
+}
