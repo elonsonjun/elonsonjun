@@ -22,5 +22,5 @@
   "Backend": ["Node.js", "Express.js"],
   "Database": ["MongoDB", "MySQL"],
   "AI/ML": ["TensorFlow", "Keras", "OpenCV"],
-  "Tools": ["VS Code", "Git", "Postman", "Figma","Tableau]
+  "Tools": ["VS Code", "Git", "Postman", "Figma","Tableau"]
 }
