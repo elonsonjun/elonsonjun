@@ -17,7 +17,7 @@
 ### 🛠 Tech Stack
 ```json
 {
-  "Languages": ["JavaScript", "Python", "TypeScript", "HTML", "CSS"],
+  "Languages": ["JavaScript", "Python", "TypeScript", "HTML", "CSS", "C", "C++"],
   "Frontend": ["React", "Tailwind", "Bootstrap"],
   "Backend": ["Node.js", "Express.js"],
   "Database": ["MongoDB", "MySQL"],
