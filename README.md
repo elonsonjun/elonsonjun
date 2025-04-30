@@ -19,7 +19,7 @@
 {
   "Languages": ["JavaScript", "Python", "TypeScript", "HTML", "CSS", "C", "C++"],
   "Frontend": ["React", "Tailwind", "Bootstrap"],
-  "Backend": ["Node.js", "Express.js"],
+  "Backend": ["Node.js", "Express.js","Danjgo","FAST API"],
   "Database": ["MongoDB", "MySQL"],
   "AI/ML": ["TensorFlow", "Keras", "OpenCV"],
   "Tools": ["VS Code", "Git", "Postman", "Figma","Tableau"]
