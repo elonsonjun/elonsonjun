@@ -18,7 +18,7 @@
 ```json
 {
   "Languages": ["JavaScript", "Python", "TypeScript", "HTML", "CSS", "C", "C++"],
-  "Frontend": ["React", "Tailwind", "Bootstrap"],
+  "Frontend": ["React", "Tailwind", "Bootstrap","Flutter"],
   "Backend": ["Node.js", "Express.js","Danjgo","FAST API"],
   "Database": ["MongoDB", "MySQL"],
   "AI/ML": ["TensorFlow", "Keras", "OpenCV"],
