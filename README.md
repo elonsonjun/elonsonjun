@@ -19,8 +19,8 @@
 {
   "Languages": ["JavaScript", "Python", "TypeScript", "HTML", "CSS", "C", "C++"],
   "Frontend": ["React", "Tailwind", "Bootstrap","Flutter"],
-  "Backend": ["Node.js", "Express.js","Danjgo","FAST API"],
-  "Database": ["MongoDB", "MySQL"],
+  "Backend": ["Node.js", "Flask","Danjgo","FAST API"],
+  "Database": ["MongoDB", "Firebase"],
   "AI/ML": ["TensorFlow", "Keras", "OpenCV"],
   "Tools": ["VS Code", "Git", "Postman", "Figma","Tableau"]
 }
