@@ -20,9 +20,6 @@
 
 ---
 
-
----
-
 ### 📫 Connect With Me
 
 - 📍 Bengaluru, India  
