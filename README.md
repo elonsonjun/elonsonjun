@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonjun</h1>
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Explorer | 🧠 LLM Innovator</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="220" alt="GitHub system with logo" />
-</p>
+
 
 ---
 
@@ -42,20 +40,27 @@
 
 ---
 
+### 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elonsonjun&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+### 💻 Most Used Programming Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elonsonjun&layout=compact&theme=react&langs_count=6&hide_title=true" width="48%" />
+</p>
+
+---
+
 ### 📫 Connect With Me
 
 - 📍 Bengaluru, India  
 - 📧 [elonprince0@gmail.com](mailto:elonprince0@gmail.com)  
 - 🌐 [@elonsonjun](https://github.com/elonsonjun)  
-
-
----
-
-### 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=elonsonjun&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
 
 ---
 
@@ -74,5 +79,3 @@
 
 ---
 
-
-  
