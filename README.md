@@ -47,7 +47,7 @@
 - 📍 Bengaluru, India  
 - 📧 [elonprince0@gmail.com](mailto:elonprince0@gmail.com)  
 - 🌐 [@elonsonjun](https://github.com/elonsonjun)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourname) *(replace this)*
+
 
 ---
 
