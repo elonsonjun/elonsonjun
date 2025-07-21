@@ -74,6 +74,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Let%E2%80%99s+build+future-ready+AI+🧠;Connect+%7C+Collaborate+%7C+Create+%F0%9F%9A%80" />
-</p>
+
+  
