@@ -7,7 +7,7 @@
 
 - 🔭 Building a *Deepfake Detection System* using Iris patterns  
 - 💡 Passionate about *AI/ML, LLMs, and Full Stack Development*  
-- 📚 Learning *TensorFlow, OpenCV, and MongoDB*  
+- 📚 Learning *TensorFlow, OpenCV, and Cloud*  
 - 🤝 Looking to collaborate on *AI/ML research and real-world projects*  
 
 ---
@@ -20,8 +20,6 @@
 
 ---
 
-### 🐱 GitHub Logo
-
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" alt="GitHub Logo" />
 </p>
@@ -31,7 +29,7 @@
 ### 📫 Connect With Me
 
 - 📍 Bengaluru, India  
-- 📧 Email: info@sonjun.ai  
+- 📧 Email: elonprince0@gmail.com  
 - 🌐 GitHub: [elonsonjun](https://github.com/elonsonjun)  
 
 ---
