@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Explorer | 🧠 LLM Innovator</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRjdzdqcGUzYmNmdmt6eXY1ZXNpOWd0YWZic2tjcHcwZmtzNzN0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IauL6LvGNlT3ffhcqq/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="220" alt="GitHub system with logo" />
 </p>
 
 ---
@@ -48,6 +48,14 @@
 - 📧 [elonprince0@gmail.com](mailto:elonprince0@gmail.com)  
 - 🌐 [@elonsonjun](https://github.com/elonsonjun)  
 - 💼 [LinkedIn](https://linkedin.com/in/yourname) *(replace this)*
+
+---
+
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elonsonjun&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 ---
 
