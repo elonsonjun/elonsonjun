@@ -15,16 +15,23 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,html,css,js,react,cpp,github,vscode,linux,flask&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,html,css,js,react,cpp,linux,flask&perline=7" />
 </p>
 
 ---
 
-### 💻 Most Used Languages
+### 🌟 Featured Project: Deepfake Detection System
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elonsonjun&layout=compact&theme=react&langs_count=6&hide_title=true" width="48%" />
-</p>
+> 🧿 A cutting-edge system that uses **iris pattern recognition** and **computer vision techniques** to detect deepfakes in real-time.  
+> Combines the power of **OpenCV**, **TensorFlow**, and **custom ML pipelines** to analyze micro-eye movements and iris texture data.
+
+---
+
+### 🌱 Currently Growing In
+
+- 🧠 **LLMs & Transformers** – HuggingFace, LangChain, Agno Agents  
+- ☁️ **Cloud AI** – Google Cloud Vertex AI, AWS Sagemaker  
+- 📊 **MLOps & Experimentation** – MLFlow, DVC, ClearML
 
 ---
 
@@ -32,17 +39,25 @@
 
 - 📍 Bengaluru, India  
 - 📧 Email: [elonprince0@gmail.com](mailto:elonprince0@gmail.com)  
-- 🌐 GitHub: [@elonsonjun](https://github.com/elonsonjun)
+- 🌐 GitHub: [@elonsonjun](https://github.com/elonsonjun)  
+- 🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com) *(replace this with your actual URL)*
 
 ---
 
-### 🏆 GitHub Stats
+### 💬 Personal Motto
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elonsonjun&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elonsonjun&theme=react" width="48%" />
-</p>
+> _“Innovation begins at the edge of curiosity.”_  
+> _Let’s collaborate and create AI that matters._
 
 ---
 
-> 🚀 *Let’s build future-ready AI together!*
+### 🎯 Goals for 2025
+
+- ✅ Publish a research paper on Iris-based Deepfake Detection  
+- 🚀 Launch an open-source AI toolkit for student researchers  
+- 🌐 Speak at an AI/ML conference
+
+---
+
+> 🧠 *Let’s build intelligent systems that serve humanity.*
+
