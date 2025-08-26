@@ -34,7 +34,7 @@
 
 | Area         | Focus Tools / Tech |
 |--------------|---------------------|
-| 🔠 LLMs       | HuggingFace, LangChain,Agno |
+| 🔠 LLMs       | HuggingFace, LangChain, Agno |
 | ☁️ Cloud AI   | GCP Vertex AI, AWS SageMaker |
 | 🧪 MLOps      | MLFlow, ClearML, DVC |
 
