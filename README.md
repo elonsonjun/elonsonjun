@@ -77,14 +77,6 @@
 
 ## 📊 GitHub Stats  
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![Elonsonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=elonsonjun&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=elonsonjun&theme=radical&hide_border=false)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elonsonjun&layout=compact&theme=radical)
 
 ## 🧭 Mission  
