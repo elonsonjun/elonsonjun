@@ -36,7 +36,7 @@
 |--------------|---------------------|
 | 🔠 LLMs       | HuggingFace, LangChain, Agno |
 | ☁️ Cloud AI   | GCP Vertex AI, AWS SageMaker |
-| 🧪 MLOps      | MLFlow, ClearML, DVC |
+| 🧪 MLOps      | MLFlow, ClearML,DVC |
 
 ---
 
