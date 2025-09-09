@@ -79,13 +79,13 @@
 
 ## 📊 GitHub Stats
 
-![Sonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonjun-murthy&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sonjun-murthy&theme=radical&hide_border=false)
+![Elonsonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=elonsonjun&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjun-murthy&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=elonsonjun&theme=radical&hide_border=false)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elonsonjun&layout=compact&theme=radical)
 
 ## 🧭 Mission  
 
