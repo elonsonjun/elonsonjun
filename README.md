@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sonjun Murthy</h1>
+<h1 align="center">Hi 👋, I'm Sonjun </h1>
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Explorer | 🧠 LLM Innovator</h3>
 
 ---
@@ -78,12 +78,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonjunmurthy&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonjunmurthy&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonjun-31a04925a&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonjun-31a04925a&theme=radical&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonjunmurthy&layout=compact&theme=react&langs_count=6&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonjun-31a04925a&layout=compact&theme=react&langs_count=6&hide_title=true" width="48%" />
 </p>
 
 ---
