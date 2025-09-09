@@ -77,14 +77,13 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonjun-31a04925a&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonjun-31a04925a&theme=radical&hide_border=false" width="48%" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonjun-31a04925a&layout=compact&theme=react&langs_count=6&hide_title=true" width="48%" />
-</p>
+![Sonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonjun-murthy&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sonjun-murthy&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjun-murthy&layout=compact&theme=radical)
 
 ---
 
