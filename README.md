@@ -46,7 +46,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/matplotlib-%230C55A5.svg?style=for-the-badge&logo=plotly&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white)  
 ![Plotly](https://img.shields.io/badge/plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
@@ -83,7 +83,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elonsonjun&layout=compact&theme=react&langs_count=6&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonjunmurthy&layout=compact&theme=react&langs_count=6&hide_title=true" width="48%" />
 </p>
 
 ---
@@ -100,5 +100,3 @@
 - ✅ Publish research on **Iris Deepfake Detection**  
 - 🛠️ Launch an **Open Source AI Toolkit** for students  
 - 🎤 Speak at an **international AI/ML event**  
-
----
