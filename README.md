@@ -28,7 +28,7 @@
 
 ---
 
-## 💻 Tech Badges  
+
 ## 💻 Tech Badges  
 
 <table>
