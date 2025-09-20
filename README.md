@@ -7,7 +7,7 @@
  
 - 🎓 I'm a student looking for an **internship**    
 - 🔭 Building a **Deepfake Detection System** using *Iris patterns*  
-- 💡 Passionate about **AI/ML, LLMs, and Full Stack Development**  
+- 💡 Passionate about **AI/ML, LLMs, and Full Stack Development**   
 - 📚 Currently learning **TensorFlow**, **OpenCV**, and **Cloud technologies**  
 - 🤝 Actively looking to collaborate on **AI & medical projects**  
 
