@@ -3,7 +3,7 @@
  
 --- 
 
-## 🧠 About Me   
+## 🧠 About Me    
  
 - 🎓 I'm a student looking for an **internship**       
 - 🔭 Building a **Deepfake Detection System** using *Iris patterns*  
