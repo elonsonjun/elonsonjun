@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Explorer | 🧠 LLM Innovator</h3> 
  
 ---  
-
+ 
 ## 🧠 About Me     
  
 - 🎓 I'm a student looking for an **internship**       
